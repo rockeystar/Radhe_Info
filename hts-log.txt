@@ -1,0 +1,21 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 08 Jan 2020 10:32:46 at http://belaltheme.com/html-preview/Factor/Factor/parallax.html +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*.gif +*.jpg +*.jpeg +*.png +*.tif +*.bmp +*.zip +*.tar +*.tgz +*.gz +*.rar +*.z +*.exe +*.mov +*.mpg +*.mpeg +*.avi +*.asf +*.mp3 +*.mp2 +*.rm +*.wav +*.vob +*.qt +*.vid +*.ac3 +*.wma +*.wmv
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://belaltheme.com/html-preview/Factor/Factor/parallax.html -O1 "E:\Radhe\thrd\sec" +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*.gif +*.jpg +*.jpeg +*.png +*.tif +*.bmp +*.zip +*.tar +*.tgz +*.gz +*.rar +*.z +*.exe +*.mov +*.mpg +*.mpeg +*.avi +*.asf +*.mp3 +*.mp2 +*.rm +*.wav +*.vob +*.qt +*.vid +*.ac3 +*.wma +*.wmv )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+10:34:27	Warning: 	Retry after error -4 (No data (connection closed)) at link belaltheme.com/html-preview/Factor/Factor/assets/images/portfolio/3.jpg (from belaltheme.com/html-preview/Factor/Factor/parallax.html)
+10:34:29	Error: 	"Not Found" (404) at link belaltheme.com/html-preview/Factor/Factor/assets/js/jquery.appear.js (from belaltheme.com/html-preview/Factor/Factor/parallax.html)
+10:34:29	Error: 	"Not Found" (404) at link belaltheme.com/html-preview/Factor/Factor/assets/fonts/glyphicons-halflings-regular.eot (from belaltheme.com/html-preview/Factor/Factor/assets/css/bootstrap.min.css)
+10:34:29	Error: 	"Not Found" (404) at link belaltheme.com/html-preview/Factor/Factor/assets/fonts/glyphicons-halflings-regular.eot? (from belaltheme.com/html-preview/Factor/Factor/assets/css/bootstrap.min.css)
+10:34:29	Error: 	"Not Found" (404) at link belaltheme.com/html-preview/Factor/Factor/assets/fonts/glyphicons-halflings-regular.woff2 (from belaltheme.com/html-preview/Factor/Factor/assets/css/bootstrap.min.css)
+10:34:29	Error: 	"Not Found" (404) at link belaltheme.com/html-preview/Factor/Factor/assets/fonts/glyphicons-halflings-regular.woff (from belaltheme.com/html-preview/Factor/Factor/assets/css/bootstrap.min.css)
+10:34:29	Error: 	"Not Found" (404) at link belaltheme.com/html-preview/Factor/Factor/assets/fonts/glyphicons-halflings-regular.ttf (from belaltheme.com/html-preview/Factor/Factor/assets/css/bootstrap.min.css)
+10:34:29	Error: 	"Not Found" (404) at link belaltheme.com/html-preview/Factor/Factor/assets/fonts/glyphicons-halflings-regular.svg (from belaltheme.com/html-preview/Factor/Factor/assets/css/bootstrap.min.css)
+10:34:37	Warning: 	Retry after error -4 (No data (connection closed)) at link belaltheme.com/html-preview/Factor/Factor/assets/fonts/fontawesome-webfont.svg?v=4.7.0 (from belaltheme.com/html-preview/Factor/Factor/assets/css/font-awesome.min.css)
+10:34:37	Error: 	"Not Found" (404) at link belaltheme.com/html-preview/Factor/Factor/assets/css/owl.video.play.png (from belaltheme.com/html-preview/Factor/Factor/assets/css/owl.carousel.min.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 52 seconds : 58 links scanned, 47 files written (3563490 bytes overall) [2852282 bytes received at 25466 bytes/sec], 1012347 bytes transferred using HTTP compression in 25 files, ratio 26%, 3.8 requests per connection
+(8 errors, 2 warnings, 0 messages)
